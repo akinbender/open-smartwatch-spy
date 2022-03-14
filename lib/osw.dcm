@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L298N_MX1508
+D L298N DC Motor Driver Board PWM Speed Dual H Bridge Stepper Module
+F https://axesstek.com/store/index.php?rt=product/product&path=81_98&product_id=170
+$ENDCMP
+#
+$CMP SFV4R-2STE1HLF
+D FFC & FPC Connectors FFC/FPC CONN
+F http://portal.fciconnect.com/Comergent//fci/drawing/10112793.pdf
+$ENDCMP
+#
+#End Doc Library
